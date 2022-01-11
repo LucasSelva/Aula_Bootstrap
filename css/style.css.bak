@@ -1,0 +1,14 @@
+body{
+	font:20px arial;
+}
+.navbar{
+	background-color: #E6AD17;
+}
+.quemsomos{
+	background-color: #169706;
+	color:white;
+}
+.margin{
+	padding-top:50px;
+	padding-bottom:50px;
+}
